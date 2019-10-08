@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TrainingCenterDatabase
+    xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2"
+    xmlns:ns2="http://www.garmin.com/xmlschemas/UserProfile/v2"
+    xmlns:ns3="http://www.garmin.com/xmlschemas/ActivityExtension/v2"
+    xmlns:ns4="http://www.garmin.com/xmlschemas/ProfileExtension/v1"
+    xmlns:ns5="http://www.garmin.com/xmlschemas/ActivityGoals/v1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2 http://www.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd">
+    <Activities>
+        <Activity Sport="Other">
+            <Id>2019-06-06T19:32:00.000Z</Id>
+            <Notes>Sleep.light</Notes>
+            <Lap StartTime="2019-06-06T19:32:00.000Z">
+                <Track>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2019-06-06T19:32:00.000Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2019-06-06T19:41:00.000Z</Time>
+                    </Trackpoint>
+                </Track>
+                <DistanceMeters>0.0</DistanceMeters>
+                <TotalTimeSeconds>540.0</TotalTimeSeconds>
+                <Calories>10.731249809265137</Calories>
+                <Intensity>Active</Intensity>
+                <TriggerMethod>Manual</TriggerMethod>
+            </Lap>
+        </Activity>
+        <Activity Sport="Other">
+            <Id>2019-06-06T19:41:00.000Z</Id>
+            <Notes>Sleep.deep</Notes>
+            <Lap StartTime="2019-06-06T19:41:00.000Z">
+                <Track>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2019-06-06T19:41:00.000Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2019-06-06T20:07:00.000Z</Time>
+                    </Trackpoint>
+                </Track>
+                <DistanceMeters>0.0</DistanceMeters>
+                <TotalTimeSeconds>1560.0</TotalTimeSeconds>
+                <Calories>31.001386642456055</Calories>
+                <Intensity>Active</Intensity>
+                <TriggerMethod>Manual</TriggerMethod>
+            </Lap>
+        </Activity>
+        <Activity Sport="Other">
+            <Id>2019-06-06T20:07:00.000Z</Id>
+            <Notes>Sleep.light</Notes>
+            <Lap StartTime="2019-06-06T20:07:00.000Z">
+                <Track>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2019-06-06T20:07:00.000Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2019-06-06T20:17:00.000Z</Time>
+                    </Trackpoint>
+                </Track>
+                <DistanceMeters>0.0</DistanceMeters>
+                <TotalTimeSeconds>600.0</TotalTimeSeconds>
+                <Calories>11.92361068725586</Calories>
+                <Intensity>Active</Intensity>
+                <TriggerMethod>Manual</TriggerMethod>
+            </Lap>
+        </Activity>
+        <Activity Sport="Other">
+            <Id>2019-06-06T20:17:00.000Z</Id>
+            <Notes>Sleep.deep</Notes>
+            <Lap StartTime="2019-06-06T20:17:00.000Z">
+                <Track>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2019-06-06T20:17:00.000Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2019-06-06T20:32:00.000Z</Time>
+                    </Trackpoint>
+                </Track>
+                <DistanceMeters>0.0</DistanceMeters>
+                <TotalTimeSeconds>900.0</TotalTimeSeconds>
+                <Calories>17.88541603088379</Calories>
+                <Intensity>Active</Intensity>
+                <TriggerMethod>Manual</TriggerMethod>
+            </Lap>
+        </Activity>
+        <Activity Sport="Other">
+            <Id>2019-06-06T20:32:00.000Z</Id>
+            <Notes>Sleep.light</Notes>
+            <Lap StartTime="2019-06-06T20:32:00.000Z">
+                <Track>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2019-06-06T20:32:00.000Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2019-06-06T20:47:00.000Z</Time>
+                    </Trackpoint>
+                </Track>
+                <DistanceMeters>0.0</DistanceMeters>
+                <TotalTimeSeconds>900.0</TotalTimeSeconds>
+                <Calories>17.88541603088379</Calories>
+                <Intensity>Active</Intensity>
+                <TriggerMethod>Manual</TriggerMethod>
+            </Lap>
+        </Activity>
+        <Activity Sport="Other">
+            <Id>2019-06-06T20:47:00.000Z</Id>
+            <Notes>Sleep.deep</Notes>
+            <Lap StartTime="2019-06-06T20:47:00.000Z">
+                <Track>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2019-06-06T20:47:00.000Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2019-06-06T21:01:00.000Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>112.0</DistanceMeters>
+                        <Time>2019-06-07T07:43:00.000Z</Time>
+                    </Trackpoint>
+                </Track>
+                <DistanceMeters>112.0</DistanceMeters>
+                <TotalTimeSeconds>39360.0</TotalTimeSeconds>
+                <Calories>25.039581298828125</Calories>
+                <Intensity>Active</Intensity>
+                <TriggerMethod>Manual</TriggerMethod>
+            </Lap>
+        </Activity>
+        <Activity Sport="Other">
+            <Id>2019-06-06T21:01:00.000Z</Id>
+            <Notes>Sleep.light</Notes>
+            <Lap StartTime="2019-06-06T21:01:00.000Z">
+                <Track>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2019-06-06T21:01:00.000Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>112.0</DistanceMeters>
+                        <Time>2019-06-06T21:08:00.000Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>112.0</DistanceMeters>
+                        <Time>2019-06-07T07:43:00.000Z</Time>
+                    </Trackpoint>
+                </Track>
+                <DistanceMeters>112.0</DistanceMeters>
+                <TotalTimeSeconds>38520.0</TotalTimeSeconds>
+                <Calories>13.115972518920898</Calories>
+                <Intensity>Active</Intensity>
+                <TriggerMethod>Manual</TriggerMethod>
+            </Lap>
+        </Activity>
+        <Activity Sport="Other">
+            <Id>2019-06-06T21:01:00.000Z</Id>
+            <Notes>Sleep.deep</Notes>
+            <Lap StartTime="2019-06-06T21:01:00.000Z">
+                <Track>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2019-06-06T21:01:00.000Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>112.0</DistanceMeters>
+                        <Time>2019-06-06T21:19:00.000Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>112.0</DistanceMeters>
+                        <Time>2019-06-07T07:43:00.000Z</Time>
+                    </Trackpoint>
+                </Track>
+                <DistanceMeters>112.0</DistanceMeters>
+                <TotalTimeSeconds>38520.0</TotalTimeSeconds>
+                <Calories>29.80902671813965</Calories>
+                <Intensity>Active</Intensity>
+                <TriggerMethod>Manual</TriggerMethod>
+            </Lap>
+        </Activity>
+        <Activity Sport="Other">
+            <Id>2019-06-06T21:01:00.000Z</Id>
+            <Notes>Sleep.light</Notes>
+            <Lap StartTime="2019-06-06T21:01:00.000Z">
+                <Track>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2019-06-06T21:01:00.000Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>112.0</DistanceMeters>
+                        <Time>2019-06-06T21:44:00.000Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>112.0</DistanceMeters>
+                        <Time>2019-06-07T07:43:00.000Z</Time>
+                    </Trackpoint>
+                </Track>
+                <DistanceMeters>112.0</DistanceMeters>
+                <TotalTimeSeconds>38520.0</TotalTimeSeconds>
+                <Calories>50.07916259765625</Calories>
+                <Intensity>Active</Intensity>
+                <TriggerMethod>Manual</TriggerMethod>
+            </Lap>
+        </Activity>
+        <Activity Sport="Other">
+            <Id>2019-06-06T21:01:00.000Z</Id>
+            <Notes>Sleep.deep</Notes>
+            <Lap StartTime="2019-06-06T21:01:00.000Z">
+                <Track>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2019-06-06T21:01:00.000Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>112.0</DistanceMeters>
+                        <Time>2019-06-06T22:26:00.000Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>112.0</DistanceMeters>
+                        <Time>2019-06-07T07:43:00.000Z</Time>
+                    </Trackpoint>
+                </Track>
+                <DistanceMeters>112.0</DistanceMeters>
+                <TotalTimeSeconds>38520.0</TotalTimeSeconds>
+                <Calories>25.039581298828125</Calories>
+                <Intensity>Active</Intensity>
+                <TriggerMethod>Manual</TriggerMethod>
+            </Lap>
+        </Activity>
+        <Activity Sport="Other">
+            <Id>2019-06-06T21:01:00.000Z</Id>
+            <Notes>Sleep.light</Notes>
+            <Lap StartTime="2019-06-06T21:01:00.000Z">
+                <Track>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2019-06-06T21:01:00.000Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>112.0</DistanceMeters>
+                        <Time>2019-06-06T22:47:00.000Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>112.0</DistanceMeters>
+                        <Time>2019-06-07T07:43:00.000Z</Time>
+                    </Trackpoint>
+                </Track>
+                <DistanceMeters>112.0</DistanceMeters>
+                <TotalTimeSeconds>38520.0</TotalTimeSeconds>
+                <Calories>69.15693664550781</Calories>
+                <Intensity>Active</Intensity>
+                <TriggerMethod>Manual</TriggerMethod>
+            </Lap>
+        </Activity>
+        <Activity Sport="Other">
+            <Id>2019-06-06T21:01:00.000Z</Id>
+            <Notes>Sleep.deep</Notes>
+            <Lap StartTime="2019-06-06T21:01:00.000Z">
+                <Track>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2019-06-06T21:01:00.000Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>112.0</DistanceMeters>
+                        <Time>2019-06-06T23:45:00.000Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>112.0</DistanceMeters>
+                        <Time>2019-06-07T07:43:00.000Z</Time>
+                    </Trackpoint>
+                </Track>
+                <DistanceMeters>112.0</DistanceMeters>
+                <TotalTimeSeconds>38520.0</TotalTimeSeconds>
+                <Calories>48.886802673339844</Calories>
+                <Intensity>Active</Intensity>
+                <TriggerMethod>Manual</TriggerMethod>
+            </Lap>
+        </Activity>
+        <Activity Sport="Other">
+            <Id>2019-06-06T21:01:00.000Z</Id>
+            <Notes>Sleep.light</Notes>
+            <Lap StartTime="2019-06-06T21:01:00.000Z">
+                <Track>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2019-06-06T21:01:00.000Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>112.0</DistanceMeters>
+                        <Time>2019-06-07T00:26:00.000Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>112.0</DistanceMeters>
+                        <Time>2019-06-07T07:43:00.000Z</Time>
+                    </Trackpoint>
+                </Track>
+                <DistanceMeters>112.0</DistanceMeters>
+                <TotalTimeSeconds>38520.0</TotalTimeSeconds>
+                <Calories>64.38749694824219</Calories>
+                <Intensity>Active</Intensity>
+                <TriggerMethod>Manual</TriggerMethod>
+            </Lap>
+        </Activity>
+    </Activities>
+    <Author xsi:type="Application_t">
+        <Name>Google Fit</Name>
+        <Build>
+            <Version>
+                <VersionMajor>0</VersionMajor>
+                <VersionMinor>0</VersionMinor>
+                <BuildMajor>0</BuildMajor>
+                <BuildMinor>0</BuildMinor>
+            </Version>
+        </Build>
+        <LangID>en</LangID>
+        <PartNumber>000-00000-00</PartNumber>
+    </Author>
+</TrainingCenterDatabase>
