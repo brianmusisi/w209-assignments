@@ -1,6 +1,6 @@
 
 var data_url = 'https://gist.githubusercontent.com/brianmusisi/b81a71abf2a98f992efcb355143b035c/raw/58e23212c58a51d0d1e855f6afa9da16f0be77ec/daily_activities.json'
-var data_url = 'https://raw.githubusercontent.com/brianmusisi/titanic-classification/master/gender_submission.csv'
+var data_url = 'https://raw.githubusercontent.com/brianmusisi/w209-assignments/master/assignment1/part2/daily_activies.json'
 
 d3.csv(data_url, function(error, data){
     if (error){
