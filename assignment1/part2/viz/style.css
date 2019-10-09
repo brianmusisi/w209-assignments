@@ -11,3 +11,7 @@ div.tooltip {
     border-radius: 2px;			
     pointer-events: none;			
 }
+
+svg {
+    margin: auto;
+}
